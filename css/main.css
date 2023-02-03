@@ -1,6 +1,7 @@
 body
  {background-color:rgb(243, 245, 244);
 
+
 }
 
 #lu1 {
@@ -11,4 +12,6 @@ body
 
 table {
     color:red;
+    border: 1px solid red;
+    border-radius: 7px;
 }
